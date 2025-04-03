@@ -1,6 +1,7 @@
 {
   "name": "hw7-new",
   "version": "0.1.0",
+  "homepage": "https://sofiaputlyuk.github.io/hw7-new",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
